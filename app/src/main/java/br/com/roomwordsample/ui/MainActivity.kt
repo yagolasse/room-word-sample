@@ -1,4 +1,4 @@
-package br.com.roomwordsample
+package br.com.roomwordsample.ui
 
 import android.app.Activity
 import android.content.Intent
@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
-import androidx.recyclerview.widget.RecyclerView
+import br.com.roomwordsample.R
 import br.com.roomwordsample.adapter.WordListAdapter
 import br.com.roomwordsample.data.Word
 import br.com.roomwordsample.viewModel.WordViewModel

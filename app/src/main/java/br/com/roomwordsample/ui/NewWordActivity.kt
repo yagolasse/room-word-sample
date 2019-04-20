@@ -1,4 +1,4 @@
-package br.com.roomwordsample
+package br.com.roomwordsample.ui
 
 import android.app.Activity
 import android.content.Intent
@@ -7,6 +7,7 @@ import android.text.TextUtils
 import android.widget.Button
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import br.com.roomwordsample.R
 
 class NewWordActivity : AppCompatActivity() {
 
