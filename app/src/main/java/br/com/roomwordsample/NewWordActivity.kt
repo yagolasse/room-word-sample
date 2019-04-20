@@ -14,6 +14,7 @@ class NewWordActivity : AppCompatActivity() {
 
     companion object {
         const val EXTRA_REPLY = "com.example.android.wordlistsql.REPLY"
+        const val REQUEST_CODE = 1
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
